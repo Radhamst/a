@@ -34,9 +34,9 @@ return false;
 
 <form method="post" name="form">
 <ul><li>
-<input id="mstnamee" name="name" type="text" />
+<input id="name" name="name" type="text" />
 </li><li>
-<input id="mstusernamee" name="username" type="text" />
+<input id="username" name="username" type="text" />
 </li>
 <!--
 <li>
