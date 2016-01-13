@@ -11,7 +11,6 @@ $username=$_POST['username'];
 echo "insert into a(name,username) values('$name','$username')";
 mysql_query("insert into a(name,username) values('$name','$username')");
 
-exit;
 }
 else { }
 

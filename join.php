@@ -1,5 +1,5 @@
 <?php
-
+echo "join";
 include('connection.php');
 
 if($_POST)
